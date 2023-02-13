@@ -23,6 +23,8 @@ $FileContent = Get-Content -Path black.mp4; $Bytes = [System.Text.Encoding]::Uni
 	- WebGL: https://get.webgl.org/
 		- Threejs: https://threejs.org/
 		- Shadertoy: https://www.shadertoy.com/
-
+	- WASM (Use Rust etc.): https://webassembly.org/
+	- Use Python: https://pyscript.net/
+	
 ## License
 MIT
